@@ -30,3 +30,5 @@ $ source devel/setup.bash
 $ rosrun tmc_gazebo_task_evaluators setup_score_widget
 $ roslaunch hsrb_wrs_gazebo_launch wrs_practice0_tmc.launch
 ```
+
+![image](https://user-images.githubusercontent.com/498658/147628399-f8cfd801-dac6-4be3-b3c7-6597ecca3897.png)
